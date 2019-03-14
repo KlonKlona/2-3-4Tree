@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1512610325 source:d:\studia\eiti infa\macierze\drzewojuliego\main.cpp
+	<iostream>
+	"TwoThreeFourTree.h"
+	"test.h"
+	<fstream>
+
+1512610240 d:\studia\eiti infa\macierze\drzewojuliego\twothreefourtree.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1513020604 d:\studia\eiti infa\macierze\drzewojuliego\test.h
+	"TwoThreeFourTree.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1513021186 source:d:\drzewa234\drzewa\main.cpp
+	<iostream>
+	"TwoThreeFourTree.h"
+	"test.h"
+	<fstream>
+
+1512610240 d:\drzewa234\drzewa\twothreefourtree.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1513022635 d:\drzewa234\drzewa\test.h
+	"TwoThreeFourTree.h"
+	<vector>
+	<iostream>
+	<fstream>
+
